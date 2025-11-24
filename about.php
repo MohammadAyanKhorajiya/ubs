@@ -27,6 +27,6 @@
     </section>
 
     <?php include 'footer.php'; ?>
-
+<?php ?>
 </body>
 </html>
